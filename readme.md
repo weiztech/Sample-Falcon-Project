@@ -1,11 +1,9 @@
 
-# Armillary - Seat Assingment Project
+# Sample Falcon Project
 
   
 
-This project built using Python 3 with Falcon Framework for Armillary Project
-
-Author: ([Jensen](https://github.com/weiztech/)) 
+This project built using Python 3 with Falcon Framework 
 
   
 
